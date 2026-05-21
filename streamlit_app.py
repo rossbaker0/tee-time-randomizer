@@ -4,7 +4,7 @@ import streamlit as st
 import pandas as pd
 
 # Imports optimization script
-from generate_optimal_pairings import generate_optimal_pairings
+from src.generate_optimal_pairings import generate_optimal_pairings
 
 st.title("Tee Time Randomizer")
 
